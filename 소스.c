@@ -49,6 +49,7 @@ int main() {
 	else
 		printf("ÃÖ´ñ°ªÀº %f", d);
 
+	return 0;
 }
 
 
